@@ -1,0 +1,9 @@
+{
+	"name": "df-desalv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6dda1f88-7928-4829-8576-154edcd7e5c2",
+		"tenantId": "a49e2ad8-3b8d-40e8-8c45-1505c9a243d3"
+	}
+}
